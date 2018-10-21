@@ -1,0 +1,113 @@
+body {
+    /* The image used */
+    background-image: url("./img/bg.png");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Web size handling */
+    margin: auto;
+    padding-bottom: 5%;
+    width: 90%;
+}
+.container {
+    padding: auto;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+}
+.button-start p {
+    margin: auto;
+}
+.button-start {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    display: inline-block;
+    font-size: 30px;
+}
+.main-lead{
+    font-size: 40px;
+    padding-top: 5%;
+}
+.main-title{
+    padding-top: 10%;
+    height: 100%;
+}
+.main {
+    margin-top: 20%;
+    font-size: 700%;
+}
+.dropdown-menu {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.dropdown-item {
+    margin: auto;
+    text-align: center;
+}
+.navbar {
+    margin: auto;
+    width: 90%;
+}
+.taula-resultat {
+    vertical-align: center;
+}
+.taula-resultat tr {
+    margin-top: 1%;
+    font-size: 18px;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.fila-resultat td{
+    margin:auto;
+    vertical-align: middle;
+}
+.table{
+    width: 70%;
+    margin: auto;
+}
+.fila-resultat td p {
+    vertical-align: middle;
+    align-content: center;
+    text-align: left;
+    padding-left: 3%;
+    margin:auto;
+}
+.fila-resultat {
+    vertical-align: middle;
+    align-content: center;
+    margin:auto;
+
+    background-color: transparent;
+    color: black;
+}
+tbody tr , thead tr{
+    border: 3px dashed;
+}
+.display-3 {
+    margin-top: 2%;
+    font-family: 'Varela Round', sans-serif;
+}
+.jumbotron{
+    background: transparent;
+    margin: auto;
+    text-align: center;
+}
+.form-inline {
+    padding: auto;
+    width: 90%;
+}
+.col-sm-auto {
+    padding: auto;
+}
+.label {
+    font-family: 'Archivo Narrow', sans-serif;
+    align-content: auto;
+    margin: auto;
+}
+.navbar {
+    background-color: transparent;
+}
